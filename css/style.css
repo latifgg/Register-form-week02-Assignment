@@ -1,3 +1,6 @@
+/* ***********
+Css 
+************* */
 div {
   width: 230px;
   height: 350px;
@@ -5,7 +8,6 @@ div {
   margin: auto;
   box-shadow: 0 0 3px;
 }
-
 .register {
   color: cornflowerblue;
   text-align: center;
@@ -27,7 +29,7 @@ button {
   background-color: dodgerblue;
   color: white;
   border: none;
-  font-size:  x-small;
+  font-size: x-small;
   width: 50px;
 }
 span {
